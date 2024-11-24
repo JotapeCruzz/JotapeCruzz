@@ -1,8 +1,17 @@
-## Olá! Eu sou o João Pedro da Cruz
+👋 Olá! Sou o João Pedro Cruz estudante apaixonado por tecnologia, sempre em busca de aprender e evoluir na área de T.I.
 
-- 🔭 Hoje trabalho com marketing digital
-- 🌱 Estudando Python e PHP
-- ⚡ Jogos são uma paixão
+💻 Tecnologias que domino:
+  Linguagens de programação: Python, PHP, JavaScript, C++.
+  Frameworks e bibliotecas: React.
+  Áreas de interesse: Internet das Coisas (IoT), desenvolvimento web e soluções inovadoras.
+  
+🌱 Atualmente, estou aprofundando meus conhecimentos e desenvolvendo projetos que conectam diferentes tecnologias para criar soluções úteis e criativas.
+
+🎯 Objetivo: Colaborar com projetos impactantes e crescer profissionalmente na área de T.I. Estou aberto a oportunidades de trabalho ou estágio!
+
+📫 Entre em contato: Você pode me encontrar por aqui no GitHub ou enviar um e-mail para joaopedrocruz153@gmail.com. Vamos trocar ideias ou trabalhar juntos em algo incrível!
+
+🚀 Em busca do futuro da tecnologia!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotapeCruzz&show_icons=true&hide=issues&theme=dark)
 
